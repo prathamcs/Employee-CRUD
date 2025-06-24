@@ -37,12 +37,12 @@ src/
 1. **Compile**:
 
    ```sh
-   javac -d out src/model/*.java src/service/*.java src/app/*.java
+   javac -d out src/*.java
    ```
 2. **Run**:
 
    ```sh
-   java -cp out app.Main
+   java -cp out Main
    ```
 
 ## Usage
