@@ -19,20 +19,13 @@ A simple Java console-based application demonstrating object-oriented principles
 
 ```
 src/
-├─ model/
-│  ├─ Employee.java
-│  ├─ Developer.java
-│  ├─ JuniorDeveloper.java
-│  └─ Manager.java
-├─ service/
-│  └─ EmployeeService.java
-└─ app/
-   └─ Main.java
+├─ Employee.java
+├─ Developer.java
+├─ JuniorDeveloper.java
+├─ Manager.java
+├─ EmployeeService.java
+├─ Main.java
 ```
-
-* **model**: Domain classes with inheritance and behavior
-* **service**: In-memory CRUD operations
-* **app**: Console application entry point and menu logic
 
 ## Prerequisites
 
